@@ -1,0 +1,9 @@
+node_modules
+platforms
+ext
+*.apk
+plugins/android.json
+plugins/electron.json
+plugins/fetch.json
+
+plugins/cordova-plugin-whitelist
