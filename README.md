@@ -1,5 +1,6 @@
 # Memgram
-
+* Intelligence is Top ^; an Entity that can prove a higher degree of intelligence (mental capability and breath) is better valued.
+* Non-human fact does exist.
 
 # Media
 * Image
@@ -8,6 +9,8 @@
 # Categorizations
 * Human; Dependent on Humanity for Relevance
 * Universal; Truth, no interpretation
+* Truth and Non-Truth; Like and Dislike
+* Relationships; Spatial, Social
 
 # Node Types
 Universal Coordinate
@@ -48,6 +51,7 @@ Universe {
 ## Entity
    * Entities can interact with the web; users
    * Like and Dislike; Entities Can Like and Dislike Nodes
+   * Not all people are treated equal
 ## Marshal
    * Data IO; manages compression and decrompression
    * Maps and Converts Representations of Data; ex. JSON <-> XML
